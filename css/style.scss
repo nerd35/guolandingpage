@@ -1,0 +1,91 @@
+body{
+    width: 100%;
+    font-family: Roboto;
+}
+.navsec{
+    height: 100px;
+}
+.text-black-50{
+    font-size: 18px ;
+    font-weight: 700;
+}
+.lastnav{
+    margin-right: 50px;
+}
+.headerSection{
+    width: 1000;
+    height: 800px;
+    background-image: url("../images/asphalt-automobile-blurred-background-2558872.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+  filter: alpha(opacity=50);
+  .welcomeheader{
+      font-size: 50px;
+     font-weight: 900;
+      color: white !important;
+      margin-top: 150px;
+      
+    opacity: 1 !important;
+    filter: alpha(opacity=50);
+  }
+  .welcometext{
+    font-size: 20px;
+     font-weight: 900;
+      color: white !important;
+  }
+
+  .emptydiv{
+      height: 220px;
+  }
+
+}
+.shuttle-van{
+    color: #3c88b5;
+}
+.transporttitle{
+    font-size: 22px;
+}
+.transportbody{
+    color: grey;
+}
+.crosscountry{
+    font-size: 45px;
+    font-weight: 900;
+}
+.executivetext{
+    color: #3c88b5;
+}
+.transportbody1{
+    font-size: 20px;
+}
+.footersection{
+    height: 400px;
+    background-color: rgb(241, 241, 241);
+}
+.footerlog{
+    height: 100px;
+}
+.fotterlogotext{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 25.3px;
+}
+.footerlinktitle{
+    color: black;
+    font-size: 22px;
+    font-weight: 900;
+}
+.footerlink{
+    color: rgb(161, 161, 161);
+    font-size: 19px;
+    font-weight: 400;
+
+}
+.footercopyright{
+    color: black;
+    font-size: 19px;
+    font-weight: 900;
+}
