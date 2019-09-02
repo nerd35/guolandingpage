@@ -61,7 +61,7 @@ body{
     font-size: 20px;
 }
 .footersection{
-    height: 400px;
+    height: 880px;
     background-color: rgb(241, 241, 241);
 }
 .footerlog{
@@ -88,4 +88,10 @@ body{
     color: black;
     font-size: 14px;
     font-weight: 900;
+}
+
+@media (min-width: 940px) {
+    .footersection{
+        height: 400px;
+    }
 }
