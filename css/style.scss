@@ -13,7 +13,6 @@ body{
     margin-right: 50px;
 }
 .headerSection{
-    width: 1000;
     height: 800px;
     background-image: url("../images/asphalt-automobile-blurred-background-2558872.jpg");
     background-position: center;
@@ -61,7 +60,7 @@ body{
     font-size: 20px;
 }
 .footersection{
-    height: 880px;
+    height: 800px;
     background-color: rgb(241, 241, 241);
 }
 .footerlog{
@@ -92,6 +91,14 @@ body{
 
 @media (min-width: 940px) {
     .footersection{
-        height: 400px;
+        height: 400px !important;
+    }
+}
+@media (min-width: 310px) {
+    .footersection{
+        height: 1000px;
+    }
+    .headerSection{
+        height: 900px;
     }
 }
